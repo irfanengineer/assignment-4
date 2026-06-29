@@ -1,1 +1,0 @@
-/Users/irfan/Applications/Jobs Menu Safe.app

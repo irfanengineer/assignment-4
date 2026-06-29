@@ -1,0 +1,16 @@
+AI Log
+
+Prompt 1:
+Explain the call stack of a NullPointerException in Java and suggest a defensive check.
+
+Response Summary:
+The call stack shows the sequence of method calls leading to an error. A defensive check includes verifying if the array is null before using it.
+
+Prompt 2:
+How to handle NumberFormatException in Java?
+
+Response Summary:
+Use try-catch blocks to handle invalid number parsing and prevent program crashes.
+
+How I fixed the bugs:
+First, I ran the program and observed the NumberFormatException caused by the string "abc". Using debugging logic, I identified that the loop condition was incorrect and fixed it. Then, I added a try-catch block to handle invalid inputs. I also added null and empty checks to prevent runtime errors. Finally, I replaced print statements with logging and added assertions for defensive programming.
