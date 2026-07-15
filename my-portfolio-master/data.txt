@@ -1,0 +1,80 @@
+NAME="Irfan Ahmed"
+TITLE="IT, Automation & Electrical Engineer"
+GITHUB="https://github.com/IrfanAhmed1989"
+LINKEDIN="https://www.linkedin.com/in/irfan-a-a68bb6145"
+EMAIL="engineerirfan21@gmail.com"
+
+CAREER HIGHLIGHTS
+10+ Years Engineering Experience
+U.S. Citizen
+MS Computer Science Engineering
+BS Electrical Engineering
+PhD Artificial Intelligence (In Progress)
+Atlanta Airport SkyTrain Engineering
+SCADA Systems
+Industrial Control Systems
+IT Field Support
+Incident Response
+System Monitoring
+
+OPEN TO OPPORTUNITIES
+IT Field Engineer
+Systems Engineer
+SCADA Engineer
+Automation Engineer
+Controls Engineer
+Electrical Engineer
+Project Engineer
+Operations & Maintenance Engineer
+
+TOOLS & SYSTEMS
+SCADA Systems
+MMIS
+CMMS
+Control Networks
+UPS Systems
+Switchgear
+Control Panels
+Electrical Test Equipment
+Field Devices
+System Monitoring
+Network Interfaces
+Industrial Controls
+
+TECHNICAL SKILLS
+Python
+Java
+IT Support
+Automation
+SCADA
+OT Systems
+Incident Response
+Troubleshooting
+Electrical Infrastructure
+Control Systems
+Field Engineering
+Commissioning
+Maintenance
+Networked Devices
+
+CERTIFICATIONS & TRAINING
+Artificial Intelligence
+Computer Science
+Electrical Engineering
+Automation Systems
+SCADA Operations
+Industrial Controls
+Project Engineering
+Field Operations
+
+
+DESIGN IDEAS
+Colorful Modern Background
+Glassmorphism Cards
+Animated Hero Section
+Project Gallery
+Achievement Cards
+Statistics Section
+Education Timeline
+Experience Timeline
+Professional Profile Photo

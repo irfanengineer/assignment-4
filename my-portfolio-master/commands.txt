@@ -1,0 +1,10 @@
+# Open live website
+open https://irfanengineer.github.io
+
+# Go to project
+cd ~/my-portfolio
+
+# Push update
+git add .
+git commit -m "update"
+git push

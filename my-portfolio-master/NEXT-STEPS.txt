@@ -1,0 +1,41 @@
+PREMIUM PORTFOLIO ROADMAP
+
+COMPLETED
+✅ Website
+✅ GitHub Pages
+✅ Resume
+✅ LinkedIn
+✅ Portfolium
+✅ Profile Photo
+✅ Project Screenshots
+✅ Backups
+
+NEXT
+⬜ Hero Profile Section
+⬜ Project Gallery
+⬜ Statistics Cards
+⬜ Achievement Cards
+⬜ Education Timeline
+⬜ Experience Timeline
+⬜ Certifications Section
+⬜ Tools & Systems Section
+⬜ SCADA Showcase
+⬜ IT Systems Showcase
+⬜ Automation Showcase
+⬜ AI & Computer Science Showcase
+⬜ Open To Opportunities Section
+
+WEBSITE
+https://irfanengineer.github.io
+
+EMAIL
+engineerirfan21@gmail.com
+
+PORTFOLIUM
+https://portfolium.com/ahmedi4708
+
+LINKEDIN
+https://www.linkedin.com/in/irfan-a-a68bb6145
+
+GITHUB
+https://github.com/irfanengineer
